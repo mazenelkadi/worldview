@@ -1,4 +1,4 @@
-# Worldview - Empty static starter
+# Worldview
 
 A camera-free public Worldview starter. json/cameras.json contains exactly zero records.
 
