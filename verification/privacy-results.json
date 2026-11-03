@@ -1,0 +1,11 @@
+{
+  "camera_records": 0,
+  "published_real_feeds": 0,
+  "authorization_placeholders": 0,
+  "private_camera_url_matches": 0,
+  "private_identifier_matches": 0,
+  "private_catalog_unchanged": true,
+  "private_rights_unchanged": true,
+  "runtime_backend_required": false,
+  "external_runtime_dependencies": false
+}

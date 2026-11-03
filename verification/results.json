@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "release camera count and placeholder-only URLs",
+    "professional zero-camera empty state",
+    "relocated independent copy, relative subpath, mobile layout, no external requests",
+    "SNAPSHOT actual generated-media decode",
+    "HLS actual generated-media decode and advancing playback",
+    "VIDEO_LOOP actual generated-media decode and advancing playback",
+    "HTTP 403 meaningful failure message; no bypass",
+    "unsafe media URL rejected"
+  ],
+  "passed": 8,
+  "real_feed_playback_verified": 0,
+  "generated_media_only": true
+}
